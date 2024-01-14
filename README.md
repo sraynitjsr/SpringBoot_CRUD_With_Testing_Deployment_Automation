@@ -1,2 +1,6 @@
-# SpringBoot_CRUD_With_Testing_Deployment_Automation
-In This Repo, I'll Create a REST API With CRUD and Deploy It in Some Containerized Cluster Alongwith Jenkins Automation
+# Rest API Using Java's Spring Boot Framework
+# Full Unit Testing For All Layers
+# Jenkins Pipeline For Automation
+# Containerized Application
+# Use of Design Patterns
+# UML Diagram of Low Level Design
